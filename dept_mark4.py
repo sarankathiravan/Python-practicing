@@ -1,0 +1,5 @@
+name=input()
+department=input()
+register_number=input()
+mark=input()
+print(name,department,register_number,mark)
