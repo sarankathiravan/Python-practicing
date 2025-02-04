@@ -1,0 +1,7 @@
+mark=int(input("Enter the Mark: "))
+if(mark<35):
+    print("Need Improvement")
+elif(mark>=35 and mark<100):
+    print("Good")
+else:
+    print("Invalid mark")
